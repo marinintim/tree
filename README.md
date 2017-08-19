@@ -4,7 +4,7 @@ tree
 Simple tree utility.
 
 ```sh
-$ tree
+$ tree test
 ┬
 └┬/Users/mt/Workspace/src/github.com/marinintim/tree/test
  ├┬dir1
@@ -17,7 +17,7 @@ $ tree
  └─dir2
 ```
 
-See [./DESIGN.md] for more details.
+See [DESIGN.md](https://github.com/marinintim/tree/blob/master/DESIGN.md) for more details.
 
 ## License
 
