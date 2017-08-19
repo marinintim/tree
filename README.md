@@ -17,6 +17,8 @@ $ tree
  └─dir2
 ```
 
+See [./DESIGN.md] for more details.
+
 ## License
 
 tree is licensed under MIT license, copyright 2017, Tim Marinin
